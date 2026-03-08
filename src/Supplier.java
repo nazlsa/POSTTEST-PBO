@@ -19,3 +19,4 @@ public class Supplier {
         System.out.println("  Alamat   : " + alamat);
     }
 }
+
