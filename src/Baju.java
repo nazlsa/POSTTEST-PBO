@@ -32,3 +32,4 @@ public class Baju {
         System.out.println("  Supplier  : " + supplier.namaSupplier);
     }
 }
+

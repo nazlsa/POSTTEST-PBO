@@ -16,5 +16,3 @@ public class Kategori {
         System.out.println("  Deskripsi : " + deskripsi);
     }
 }
-
-
