@@ -297,5 +297,6 @@ Aplikasi ini memudahkan pengelola toko OmahKoe Batik untuk mengelola inventaris 
 
 ## Hasil Akhir:
 Program berjalan dengan baik, semua fitur berfungsi, dan data tersimpan dalam ArrayList selama program berjalan.
+
 Ya, cukup sekian dan terimakasih.
 
